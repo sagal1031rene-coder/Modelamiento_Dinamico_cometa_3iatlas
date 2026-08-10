@@ -1,7 +1,7 @@
 markdown
 # Modelamiento Dinámico del Cometa
-{!{Open en Colab}{https://google.com}{https://google.com}
-{!{license: MIT}(https://shields.io)}(https.//opensource.org)
+{!{Open In Colab}(https://google.com}(https://google.com)
+{!{License: MIT}(https://shields.io)}(https://opensource.org)
 Este repositorio contiene el código fuente, los cuadernos de procesamiento y los datos complemenmtarios asociados al artículo de investigación en ciencias planetarias:
 > **"Modelamiento Dinámico del cometa 3I/ATLAS"**
 > *Autores: René Sagal.*
